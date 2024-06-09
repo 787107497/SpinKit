@@ -1,0 +1,16 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "SpinKit是一个适用于OpenHarmony的加载动画库"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "SpinKit是一个适用于OpenHarmony的加载动画库"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "SpinKit"
+    }
+  ]
+}
