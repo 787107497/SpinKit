@@ -1,7 +1,7 @@
 {
   "name": "entry",
   "version": "1.0.0",
-  "description": "Please describe the basic information.",
+  "description": "SpinKit是一个适用于OpenHarmony的加载动画库",
   "main": "",
   "author": "",
   "license": "",
